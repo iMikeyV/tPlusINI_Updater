@@ -9,6 +9,6 @@ Analysts would normally have to manually adjust the .INI
  
 ### Solution:  
 Program reads INI, displays current set up and asks analyst if it needs to be updated. (2 or 3 registers)
-If it does, program will back up INI settings, and then rewrite them accordingly. 
+If it does,the program will back up INI settings and then rewrite them accordingly. 
 
-See program comments for details
+See program comments for details,
